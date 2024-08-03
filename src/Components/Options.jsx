@@ -8,11 +8,11 @@ import './Options.css';  // Make sure to create this CSS file
 
 function Howtouse() {
   const steps = [
-    { title: "Kookaburra", description: "$10,000", image: placeholderImage1 },
-    { title: "Classic Tennis ball Bat", description: "$1000.", image: placeholderImage2 },
-    { title: "SG Red Limited Edition", description: "$7000", image: placeholderImage3 },
-    { title: "SS Leather Bat", description: "$70,000", image: placeholderImage4 },
-    { title: "CEAT Garden Edition", description: "$45,000", image: placeholderImage5 }
+    { title: "Yamaha F600M", description: "$20,000", image: placeholderImage1 },
+    { title: "DRUM KIT AJOO7", description: "$13,000.", image: placeholderImage2 },
+    { title: "The Guitar Company guitar 790", description: "$70,000", image: placeholderImage3 },
+    { title: "Violin LT091", description: "$50,000", image: placeholderImage4 },
+    { title: "Yamaha Piano CL009", description: "$18,000", image: placeholderImage5 }
   ];
   
   return (
